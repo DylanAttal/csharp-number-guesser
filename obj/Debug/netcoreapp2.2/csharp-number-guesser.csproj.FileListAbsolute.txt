@@ -1,0 +1,11 @@
+/Users/dylanattal/projects/csharp-number-guesser/bin/Debug/netcoreapp2.2/csharp-number-guesser.deps.json
+/Users/dylanattal/projects/csharp-number-guesser/bin/Debug/netcoreapp2.2/csharp-number-guesser.runtimeconfig.json
+/Users/dylanattal/projects/csharp-number-guesser/bin/Debug/netcoreapp2.2/csharp-number-guesser.runtimeconfig.dev.json
+/Users/dylanattal/projects/csharp-number-guesser/bin/Debug/netcoreapp2.2/csharp-number-guesser.dll
+/Users/dylanattal/projects/csharp-number-guesser/bin/Debug/netcoreapp2.2/csharp-number-guesser.pdb
+/Users/dylanattal/projects/csharp-number-guesser/obj/Debug/netcoreapp2.2/csharp-number-guesser.csprojAssemblyReference.cache
+/Users/dylanattal/projects/csharp-number-guesser/obj/Debug/netcoreapp2.2/csharp-number-guesser.csproj.CoreCompileInputs.cache
+/Users/dylanattal/projects/csharp-number-guesser/obj/Debug/netcoreapp2.2/csharp-number-guesser.AssemblyInfoInputs.cache
+/Users/dylanattal/projects/csharp-number-guesser/obj/Debug/netcoreapp2.2/csharp-number-guesser.AssemblyInfo.cs
+/Users/dylanattal/projects/csharp-number-guesser/obj/Debug/netcoreapp2.2/csharp-number-guesser.dll
+/Users/dylanattal/projects/csharp-number-guesser/obj/Debug/netcoreapp2.2/csharp-number-guesser.pdb
