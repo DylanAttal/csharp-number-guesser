@@ -25,6 +25,20 @@ namespace csharp_number_guesser
       while (guess != correctNumber)
       {
         string userGuess = Console.ReadLine();
+
+        // Make sure the userGuess is a number
+        if (!int.TryParse(userGuess, out guess))
+        {
+          // Change text color
+          Console.ForegroundColor = ConsoleColor.Red;
+          // Not a number message
+          Console.WriteLine("Please enter a number!");
+          // Reset text color
+          Console.ResetColor();
+          // Keep guessnig
+          continue;
+        }
+
         // Change guess to int and store as guess
         guess = Int32.Parse(userGuess);
         // Match guess to correctNumber
