@@ -14,8 +14,9 @@ namespace csharp_number_guesser
       // Start game
       Console.WriteLine($"Hello, {userName}, let's play the number guessing game!");
 
-      // Set the correct number
-      int correctNumber = 7;
+      // Set random correct number
+      Random random = new Random();
+      int correctNumber = random.Next(1, 10);
       // Set guess
       int guess = 0;
 
